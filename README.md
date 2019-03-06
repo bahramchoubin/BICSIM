@@ -8,9 +8,9 @@ Software required:
 Matlab R2016b or later.
 
 Required data from GitHub:
--	BICSIM Algorithm: Download BICSIM.p.
--	Elevation data: Download the global elevation data (Elevation.nc4). 
--	Sample station data: Download the sample excel file (StationsData.xlsx). 
+	BICSIM Algorithm: Download BICSIM.p.
+	Elevation data: Download the global elevation data (Elevation.nc4). 
+	Sample station data: Download the sample excel file (StationsData.xlsx). 
 
 Required data from user:
 	Station (observation data): Provide your station data in an excel file with the name of “StationsData.xlsx”. See the sample excel file (StationsData.xlsx) in GitHub. Put name, X (longitude), and Y (latitude) of stations, respectively, in rows 1 to 3. In column 1 (row 4 to end) insert date. In other columns (row 4 to end) insert precipitation data. 
@@ -30,11 +30,11 @@ Run:
 
 
 Results: 
--	On the opened figure you can see the Bias before (TRMM) and after (Corrected TRMM) correction for all stations. If the results are not satisfied, please run again and change the precipitation classes (step 5 in the run section). Also, you can change the methods (step 6 in the run section). 
--	Results of the Bias correction is saved within 3 excels in the Results folder (at your local folder in the computer). You can find the path of the Results folder through the current folder in Matlab, too, after that the running was completed (Current folder will be on the Results folder paths). 
--	In the results folder, Performance.xls indicates Bias, MAE, and RMSE for before (TRMM) and after (Corrected TRMM) correction for all stations.
--	In the results folder, PixelPrecipitation.xls indicates precipitation of TRMM and Corrected TRMM for all pixels of the study. Elevation, latitude, and longitude of the pixels are provided. 
--	In the results folder, TRMM.xls indicates observations, TRMM, and corrected TRMM for the corresponding pixel of stations. 
+	On the opened figure you can see the Bias before (TRMM) and after (Corrected TRMM) correction for all stations. If the results are not satisfied, please run again and change the precipitation classes (step 5 in the run section). Also, you can change the methods (step 6 in the run section). 
+	Results of the Bias correction is saved within 3 excels in the Results folder (at your local folder in the computer). You can find the path of the Results folder through the current folder in Matlab, too, after that the running was completed (Current folder will be on the Results folder paths). 
+	In the results folder, Performance.xls indicates Bias, MAE, and RMSE for before (TRMM) and after (Corrected TRMM) correction for all stations.
+	In the results folder, PixelPrecipitation.xls indicates precipitation of TRMM and Corrected TRMM for all pixels of the study. Elevation, latitude, and longitude of the pixels are provided. 
+	In the results folder, TRMM.xls indicates observations, TRMM, and corrected TRMM for the corresponding pixel of stations. 
 
 For any information or bug report please email me:
 Bahram Choubin
