@@ -38,7 +38,7 @@ Results:
 
 For any information or bug report please email me:
 Bahram Choubin
-Email: Bahram.choubin@ut.ac.ir 
+Email: Bahram.choubin@ut.ac.ir; 
 Bahram368@gmail.com 
 
 Citation: 
