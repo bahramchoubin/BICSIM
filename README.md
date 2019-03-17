@@ -2,7 +2,7 @@
 BICSIM: Bias Correction using Similarity Matrix
 
 Introduction:
-This algorithm corrects Bias in daily TRMM precipitation data. Bias correction method in this study is included two steps: (i) construction of the similarity matrix/homogeneous condition based on the periodicity and different amount of precipitation for correcting Bias in gauged pixels, (ii) identification of the best donor pixel to each ungauged pixel based on the similarity (elevation, latitude, and longitude) for correcting Bias in ungauged pixels. 
+This algorithm corrects Bias in daily TRMM precipitation data. Bias correction method in this algorithm is included two steps: (i) construction of the similarity matrix/homogeneous condition based on the periodicity and different amount of precipitation for correcting Bias in gauged pixels, (ii) identification of the best donor pixel to each ungauged pixel based on the similarity (elevation, latitude, and longitude) for correcting Bias in ungauged pixels. 
 
 Software required: 
 Matlab R2016b or later.
