@@ -42,4 +42,4 @@ Email: Bahram.choubin@ut.ac.ir;
 Bahram368@gmail.com 
 
 Citation:
-
+Choubin, B., Khalighi-Sigaroodi, S., Mishra, A., Goodarzi, M., Shamshirband, S., Ghaljaee, E. and Zhang, F., 2019. A novel bias correction framework of TMPA 3B42 daily precipitation data using similarity matrix/homogeneous conditions. Science of The Total Environment, 694, p.133680.
